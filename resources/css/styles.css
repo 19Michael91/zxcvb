@@ -1,0 +1,9 @@
+.login-div{
+    margin-top: 100px;
+}
+.registration-button{
+    float: right;
+}
+.validation-error{
+    color: #f00;
+}
